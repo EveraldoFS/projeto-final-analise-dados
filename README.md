@@ -291,7 +291,7 @@ As visualizações auxiliam na identificação de padrões, tendências e pontos
 ## 1. Clone o repositório
 
 ```bash
-git clone https://github.com/carolinecunha-coder/projeto-final-analise-dados.git
+git clone https://github.com/EveraldoFS/projeto-final-analise-dados.git
 ```
 
 Acesse o diretório do projeto:
